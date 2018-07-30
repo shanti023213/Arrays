@@ -1,0 +1,7 @@
+Need to do:
+kth largest element in two sorted array
+Stable marriage problem - StableMarriageProblem.java
+Given a set of n integers, divide the set in two subsets of n/2 sizes each such that the difference of the sum of two subsets is as minimum as possible - TugOfWar.java
+Print nth number of count sequence. Sequence is like 1 11 21 1211 111221 and so on. NthElementOfCountNumberSequence.java
+Given 2 arrays of same length consisting of 0s and 1s find max span i,j in two arrays such that sum b/w i to j is same. LongestSameSumSpan.java longestsamesumspan.py
+Count number of inversions where i < j < k and input[i] > input[j] > input[k] in array. CountInversionOfSize3.java countinversionofsize3.py
